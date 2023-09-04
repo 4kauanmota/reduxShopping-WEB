@@ -1,7 +1,7 @@
 ![Project Stars](https://img.shields.io/github/stars/4kauanmota/reduxShopping-WEB?color=1e90ff) ![Project Commits Week](https://img.shields.io/github/commit-activity/w/4kauanmota/reduxShopping-WEB?color=1e90ff)
 
 # 📄 **Informations**
-**This project had the help of these 2 videos**
+**This project had the help of this video**
 + https://youtu.be/mXI2-gjIZ40
 
 ---
