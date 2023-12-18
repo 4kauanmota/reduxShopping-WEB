@@ -21,8 +21,6 @@
 + [REDUX TOOL KIT](https://redux-toolkit.js.org/)
 + [JSX](https://pt-br.legacy.reactjs.org/docs/introducing-jsx.html)
 + [VISUAL STUDIO CODE](https://code.visualstudio.com/)
-+ [VISUAL STUDIO](https://visualstudio.microsoft.com/pt-br/)
-
 ---
 
 # ⚙️ **How to run**
@@ -31,7 +29,7 @@
 + [NODE.JS](https://nodejs.org/en)
 
 ### Codes
-+ `git clone NAME .`
++ `git clone https://github.com/4kauanmota/reduxShopping-WEB .`
 + `npm install`
 + `npm run start`
 
@@ -40,7 +38,7 @@
 ### Cloning project
 First you will need to open the terminal in the folder where you want to clone this project, and then, you paste this code 
 ```
-git clone NAME .
+git clone https://github.com/4kauanmota/reduxShopping-WEB .
 ```
 
 ### Installing dependencies
